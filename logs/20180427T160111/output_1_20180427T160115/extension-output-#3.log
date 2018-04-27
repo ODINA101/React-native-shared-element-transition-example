@@ -1,0 +1,6 @@
+[Info  - 4:01:29 PM] ESLint server is running.
+[Info  - 4:01:33 PM] ESLint library loaded from: /usr/local/lib/node_modules/eslint/lib/api.js
+[Warn  - 4:01:33 PM] 
+No ESLint configuration (e.g .eslintrc) found for file: /home/odina/Desktop/RN listview/test/App.js
+File will not be validated. Consider running 'eslint --init' in the workspace folder test
+Alternatively you can disable ESLint by executing the 'Disable ESLint' command.
